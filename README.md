@@ -1,9 +1,11 @@
-超级账本初学者， 欢迎大牛多多指教， 谢谢！
-
 ## [Fabric](./fabric)
 * [Fabric - 企业级区块链简介](./fabric/1.md)
 * [Fabric - 系统架构](./fabric/2.md)
-* [Fabric - 安装](./fabric/3.md)
+* [Fabric - Docker部署](./fabric/3.md)
+* [Fabric - CA 部署](./fabric/4.md) (待更新)
+* [Fabric - Docker多节点部署](./fabric/5.md) (待更新)
+* [Fabric - 添加节点](./fabric/6.md) (待更新)
+* [Fabric - ChainCode学习](./fabric/6.md) (待更新)
 
 ### IBM Hyperledger 微课堂
 - [视频资源](http://v.youku.com/v_show/id_XMjU2OTQwOTE1Ng==.html?f=49106065)
@@ -44,3 +46,6 @@
 ## Docker
 - [Docker 容器与容器云（第2版）](./document/)
 
+
+---
+超级账本初学者， 欢迎大牛多多指教， 谢谢！
